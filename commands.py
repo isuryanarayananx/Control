@@ -1,0 +1,6 @@
+baseCommands = {
+    'exit': [
+        'EXIT',
+        'exit'
+    ]
+}
