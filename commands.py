@@ -1,6 +1,0 @@
-baseCommands = {
-    'exit': [
-        'EXIT',
-        'exit'
-    ]
-}
